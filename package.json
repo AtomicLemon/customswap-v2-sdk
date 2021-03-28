@@ -24,7 +24,7 @@
   "dependencies": {
     "@ethersproject/address": "^5.0.0",
     "@ethersproject/solidity": "^5.0.0",
-    "atomiclemon/e-sdk-core#main": "^1.0.8",
+    "atomiclemon/customswap-sdk-core#main": "^1.0.8",
     "tiny-invariant": "^1.1.0",
     "tiny-warning": "^1.0.3"
   },
